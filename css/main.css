@@ -1,0 +1,252 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+    
+}
+
+#chaimae{
+    color:azure;
+}
+.chaimae{
+    margin-left: 420px;
+
+}
+header>i{
+    font-weight:200 ;
+    color:white;
+    margin-left: 20px;
+    font-size: 30px;
+}
+
+#tmimi{
+    width: 30px;
+    
+    border-radius: 15px;
+
+}
+header{
+    display: flex;
+    align-items: baseline;
+    background-color:#161b21;
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+header>input{
+    margin-left: 30px;
+    border: 1px solid ;
+    padding: 1px 10px 10px 0px ;
+    font-size: 20px;
+    border-radius: 2px;
+    background-color:#0d1116;
+}
+header>input::placeholder{
+    font-size: 90px;
+    letter-spacing: normal;
+    transform: scale(1.4);
+}
+#button1{
+    margin-left: 70px;
+    background-color: #238636;
+    color: white;
+    padding: 7px 10px;
+    border: 1px solid #0d1116;
+    border-radius: 3px;
+}
+aside>div{
+    display: flex;
+    align-items: baseline;
+    
+}
+aside>a{
+    color:#58a6ff;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.azerty{
+    margin-left: 40px;
+}
+header>input::placeholder{
+
+color: white;
+padding: 1px 1px;
+font-size: 10px;
+}
+header>p{
+    color: white;
+    margin: 20px 20px 20px 20px;
+}
+
+section{
+    display: flex;
+    
+}
+aside{
+    display: flex;
+    flex-direction: column;
+    flex:3;
+    background-color:#0d1116;
+    
+}
+#last{
+    border-bottom: 1px solid;
+    color: #7b838c;
+    padding-bottom: 10px;
+    margin-bottom: 15px;
+}
+#create{
+    margin-left: 20px;
+    background-color: #30363c;
+    color: #4780c0;
+    padding: 7px 1px;
+    margin-right: 70px;
+    border: 1px solid #0d1116;
+    border-radius: 3px;
+}
+#git{
+    color: #7b838c;
+}
+aside h4{
+    color: white;
+}
+aside>input{
+    border: 1px solid #21262c;
+    font-size: 20px;
+    border-radius: 4px;
+    background-color:rgba(8,10,15,255);
+}
+aside input::placeholder{
+    color:lightgray;
+    padding: 13px 15px;
+    font-size: 13px;
+ }
+ 
+main{
+    flex: 12;
+    background-color: #0a0c10;
+    margin-left: 10px #0a0c10 ;
+}
+img{
+    width: 30px;
+    
+    border-radius: 15px;
+}
+span{
+    color: #7b838c;
+}
+main>p{
+    color: white;
+}
+.bloc>p{
+    color:white;
+}
+.bloc2 ,.bloc3{
+    color:#7b838c ;
+}
+.blue{
+    color: #58a5fe;
+}
+.f1::before{
+    content: '\f46c';
+    font-family: "font awesome 5 free";
+    font-weight: 800;
+    color: #868f99;
+}
+#follow{
+    margin-left: 610px;
+    margin: 20px 20px 240px 20px;
+
+    background-color:#21262c;
+    color: white;
+    
+    padding: 20px 20px 20px 20px;
+    border: 1px solid #868f99;
+    border-radius: 3px;
+}
+.f2::before{
+
+    content: '\f023';
+    font-family: "font awesome 5 free";
+    font-weight: 800;
+    color: #e2b341;
+}
+.bloc{
+    display: flex;
+    flex-direction: row;
+    align-items: baseline;
+}
+.bloc2{
+    display: flex;
+    flex-direction: row;
+    border: 1px solid #30363c;
+    border-radius: 1px;
+    width: 100vh;
+    height: 90px;
+}
+.bloc2 img{
+    width: 40px;
+    height: 35px;
+    
+    border-radius: 5px;
+}
+.bloc3{
+    
+    border: 1px solid #30363c;
+    border-radius: 1px;
+    width: 100vh;
+    height: 90px;
+}
+.border{
+    border:1px solid #21262c ;
+    color: #4780c0;
+    background-color: #21262c;
+}
+.lampe::before{
+
+    content: '\f023';
+    font-family: "font awesome 5 free";
+    font-weight: 800;
+    color: #868f99;
+}
+.wifi::before{
+
+    content: '\f023';
+    font-family: "font awesome 5 free";
+    font-weight: 800;
+    color: #868f99;
+}
+footer{
+    margin-top: 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+footer>p{
+    color: white;
+}
+footer>div>ul>li{
+    color:lightgray;
+    
+}
+.foogit::before{
+    content:'\f09b';
+    font-family: "font awesome 5 free";
+    font-weight: 800;
+    color: #868f99;
+
+}
+.z1{
+    flex: 6;
+    margin-left: 40px;
+
+}
+.z2{
+    flex: 6;
+
+}
+.z3{
+    flex: 6;
+
+}
